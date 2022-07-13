@@ -1,0 +1,16 @@
+{
+  "name": "clase03-basesnode",
+  "version": "1.0.0",
+  "description": "Es una tabla de multiplicar con archivo de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node index --base=3"
+  },
+  "author": "Verito",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
